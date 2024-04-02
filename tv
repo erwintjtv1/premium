@@ -1,0 +1,587 @@
+#EXTM3
+
+============================TV NASIONAL & ANAK============================
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",RCTI
+https://kusnadipepenk.github.io/campeign/rcti.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",NET TV
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1533336491_b344100_sleng.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",TRANS TV #1
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8  
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",TRANS TV #2
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1816409440_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="ERWINTJ",KOMPAS TV 1
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",KOMPAS TV 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg", METRO TV 1
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg", METRO TV 2
+http://210.210.155.35/uq2663/h/h12/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Metro_TV
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",ANTV 1
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",ANTV 2
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="ERWINTJ", Indosiar 1 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="ERWINTJ", Indosiar 2
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg", TvOne 1
+http://210.210.155.35/uq2663/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg", TvOne 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNN 1
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNN 2
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNN 3
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",Usee Prime
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/05.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="ERWINTJ",METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="ERWINTJ",Digione
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="ERWINTJ",Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",TV Kesehatan
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/chunklist_w750374337.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",JTV
+https://h1.intechmedia.net/info/youtv.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",ZEEBIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="", Citra Bioskop 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ERWINTJ",Citra Bioskop 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="", Citra Dangdut 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="ERWINTJ",Citra Dangdut 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="", Citra Drama 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradrama.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="ERWINTJ",Citra Drama 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",Citra Entertainment
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",Citra Muslim
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8 
+
+EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be55099d58fa/ccf6f558ffa645a28501c0bfc1de4f05.jpg" group-title="ERWINTJ",jaktv
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",JAKTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",JakartaGlobe
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",idx
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",idtv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",jtv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",Jawa Pos Tv
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w787805323_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg",BTV 1
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg",BTV 2
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=BTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg",BTV 3
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+
+#EXTINF:0 tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/logo-web-garuda.tv_-2-1.svg" group-title="ERWINTJ",Garuda TV 1
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:0 tvg-logo="https://garuda.tv/wp-content/uploads/2023/09/logo-web-garuda.tv_-2-1.svg" group-title="ERWINTJ",Garuda TV 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/TVKU-SEMARANG.jpg"group-title="ERWINTJ",TVKU SEMARANG
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/BETV-BENGKULU.jpg"group-title="ERWINTJ",BETV BENGKULU
+https://h1.intechmedia.net/intech/ch58.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/BALI-TV.jpg"group-title="ERWINTJ",BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXLdvNb7qBc6f5YiUVqfJUZZUd497u9LKlg&usqp=CAU"group-title="ERWINTJ",BADAR TV
+https://e1.siar.us/badartv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg", Daaitv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w500915176.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/ammedia_720p.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",tv9
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8
+
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="ERWINTJ",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",hooree
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="ERWINTJ", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",nickelodeon
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",nickjr
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",cartoonito
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",cartoonnetwork
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg", My Kidz 
+http://210.210.155.35/uq2663/h/h191/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Kidz_HD
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",animax
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",lifestyle
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
+
+============================TV INTERNASIONAL============================
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg", FIGHT SPORTS
+http://210.210.155.35/dr9445/h/h05/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=FIGHT_SPORTS_HD
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",premiersport
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",spotv 1
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",spotv 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg", Horizon Sport 1
+http://210.210.155.35/uq2663/h/h24/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Horizon_Sport
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg", Horizon Sport 2
+https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Horizon_Sport
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="", The Food Network 1
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="" group-title="ERWINTJ",The Food Network 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="" group-title="ERWINTJ",Asian Food Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",animalplanet
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",lovenature
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",history
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",discoveryasia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",discoverychannel
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",cgtndocumentary
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",crimeinvestigation
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",mtv90
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",lifetime
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg", ROCK Entertainment 1
+http://210.210.155.37/dr9445/h/h16/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK_Entertainment_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg", ROCK Entertainment 2
+https://op-group2-swiftservehd-1.dens.tv/h/h16/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK_Entertainment_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg", ROCK Entertainment 3
+http://rr1.dens.tv/h/h16/01.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK_Entertainment_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK Action 1
+http://210.210.155.37/dr9445/h/h15/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK_Action_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK Action 2
+https://op-group2-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK_Action_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg", ROCK Action 3
+http://rr1.dens.tv/h/h15/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=ROCK_Action_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg", KIX 1
+http://210.210.155.35/dr9445/h/h07/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=KIX_HD
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",KIX 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg", Celestial Movies 1
+http://210.210.155.35/dr9445/h/h14/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Celestial_Movies
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="", Celestial Movies 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",HIT MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg", My Cinema Europe
+http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",paramount
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="", tvN Movies 1
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg", tvN Movies 2
+https://op-group2-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_Movies_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg", tvN Movies 3
+http://210.210.155.35/dr9445/h/h21/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_Movies_HD
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",xingkong
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/Red-Bull-TV.jpg"group-title="ERWINTJ",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503416_tvchannels_v1.jpg", Al Jazeera English 1
+http://210.210.155.35/uq2663/h/h143/index2.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Al_Jazeera_English
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503416_tvchannels_v1.jpg", Al Jazeera English 2
+https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Al_Jazeera_English
+
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/AL-MAGHARIBIA.jpg"group-title="ERWINTJ",AL MAGHARIBIA
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",abc
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",afn
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+ 
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",arirang
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8  
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",bbcworld
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",bloomberg
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8  
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",cctv4
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",cna
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",dmax
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",dwenglish
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",euronews
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8 
+
+EXTINF:-1 group-title="ERWINTJ" tvg-logo="",firsthighlight err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch900%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",firstwarriors
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",france24english
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",globaltrekker
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",hgtv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",hunan
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8  
+ 
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",jiangsu
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",kairos
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch23%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",kbsworld
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",one
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",rai
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",shenzen
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="", SONY MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",sonyset
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",stingrayfestival
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",stingrayjazz
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",stingraynow
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",tlc
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8 
+ 
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",tv5mondeasie
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",tvbsasia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",tvbs
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch217%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",tvbxinghe
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8 
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",tvN 1
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502092_tvchannels_v1.jpg", tvN 2
+http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502092_tvchannels_v1.jpg", tvN 3
+https://op-group2-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvN_HD
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="",cgtn
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692758975_tvchannels_v1.jpg", Nadoo Comerce 1
+http://210.210.155.35/uq2663/h/h126/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDoo_Commerce
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692758975_tvchannels_v1.jpg", Nadoo Comerce 2
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h126/live.m3u8?app_type=web&userid=jjj&chname=NaDoo_Commerce
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg", Nadoo Korean 1
+http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg", Nadoo Korean 2
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=jjj&chname=NaDooKorean
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg", DensPlay 1
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=DensPlay
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg", DensPlay 2
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503403_tvchannels_v1.jpg", CNA
+http://210.210.155.35/uq2663/h/h29/index10.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=CNA
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503409_tvchannels_v1.jpg", NHK WORLD-JAPAN 1
+http://210.210.155.35/uq2663/h/h23/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NHK_WORLD-JAPAN
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="", NHK WORLD-JAPAN 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/THTG.jpg"group-title="ERWINTJ",THTG VIETNAM
+http://thtg.vn:8001/thtg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503423_tvchannels_v1.jpg", TRT World 1
+http://210.210.155.35/uq2663/h/h156/index2.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=TRT_World
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503423_tvchannels_v1.jpg", TRT World 2
+http://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503432_tvchannels_v1.jpg", WION (World is One News)
+http://210.210.155.35/uq2663/h/h91/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=WION
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503445_tvchannels_v1.jpg", Freedom
+http://210.210.155.35/uq2663/h/h101/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Freedom
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="", Phoenix Chinese
+http://210.210.155.35/uq2663/h/h157/index2.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Phoenix_Chinese
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ERWINTJ" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503469_tvchannels_v1.jpg", TV5MONDE ASIE
+https://op-group1-swiftservehd-1.dens.tv/s/s212/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tv5monde-asie
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Na1vGXR.png" group-title="ERWINTJ",Fashion TV Midnight Secret
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+
+============================TV DAERAH============================
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/TVRI_Jakarta.png" group-title="ERWINTJ", TVRI Jakarta
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/TVRI_Maluku.png" group-title="ERWINTJ", TVRI Maluku
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/TVRI_Bali.png" group-title="ERWINTJ", TVRI Bali
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TVRI_Bangka_Belitung.png" group-title="ERWINTJ", TVRI Bangka Belitung
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVRI_Bengkulu.png/800px-TVRI_Bengkulu.png" group-title="ERWINTJ", TVRI Bengkulu
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TVRI_GORONTALO.svg/640px-TVRI_GORONTALO.svg.png" group-title="ERWINTJ", TVRI Gorontalo
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TVRI_Jawa_Barat.png" group-title="ERWINTJ", TVRI Jawa Barat
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/TVRI_Jawa_Tengah.png/800px-TVRI_Jawa_Tengah.png" group-title="ERWINTJ", TVRI Jawa Tengah
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TVRI_Jawa_Timur.png/640px-TVRI_Jawa_Timur.png" group-title="ERWINTJ", TVRI Jawa Timur
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TVRI_Kalimantan_Selatan.svg/1913px-TVRI_Kalimantan_Selatan.svg.png" group-title="ERWINTJ", TVRI Kalsel
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TVRI_Kalimantan_Tengah.png" group-title="ERWINTJ", TVRI Kalteng
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/TVRI_Kalimantan_Timur.png" group-title="ERWINTJ", TVRI Kaltim
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png" group-title="ERWINTJ", TVRI Aceh
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/NTB.png" group-title="ERWINTJ", TVRI NTB
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/NTT.png" group-title="ERWINTJ", TVRI NTT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TVRIPapuaLogo2019.svg/1200px-TVRIPapuaLogo2019.svg.png" group-title="ERWINTJ", TVRI Papua
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/RIAU.png" group-title="ERWINTJ", TVRI Riau
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20SELATAN.png" group-title="ERWINTJ", TVRI Sulsel
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGAH.png" group-title="ERWINTJ", TVRI Sulteng
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGGARA.png" group-title="ERWINTJ", TVRI Sultra
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20UTARA.png" group-title="ERWINTJ", TVRI Sulut
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVRI_Sumatera_Barat.png/640px-TVRI_Sumatera_Barat.png" group-title="ERWINTJ", TVRI Sumbar
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/TVRI_Sumatera_Selatan.png" group-title="ERWINTJ", TVRI Sumsel
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TVRI_Sumatera_Utara.png" group-title="ERWINTJ", TVRI Sumut
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TVRI_Yogyakarta.png" group-title="ERWINTJ", TVRI Yogyakarta
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="https://i.imgur.com/hHAdQ9H.png",Pembuka
+https://www.dropbox.com/scl/fi/81he1sp6w0olgydgrbr1b/Remo_720p.mp4?rlkey=o0lp0huf16gf7l6cr7qmxmr1y&dl=1
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="https://i.imgur.com/hHAdQ9H.png",Jaipong
+https://www.dropbox.com/scl/fi/9yv9xububr86qamgek57y/TARI-KESER-BOJONG-Jaipongan-Official-Video.mp4?rlkey=gpge4eq5ftrhbbqmrbw4pgsgg&dl=1
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="https://i.imgur.com/hHAdQ9H.png",Tari Papua
+https://www.dropbox.com/scl/fi/3e9hdcjd7lfhizvx4ptu3/TARI-KREASI-PAPUA-RUMAH-SEJATI.mp4?rlkey=i1abxl60jtpiplqc1mr1af49m&dl=1
+
+#EXTINF:-1 group-title="ERWINTJ" tvg-logo="https://i.imgur.com/hHAdQ9H.png",Tari Margapai
+https://www.dropbox.com/scl/fi/hscenwdag6r9wov3m26l3/Tari-Margapati-video-angkatan-seni-tari-fbs-unnes-2012.mp4?rlkey=8mgvvz6zp55fub7qn2n8u9xk9&dl=1
+
+
+Copyright © 2024 erwintj
+erwintjtv@gmail.com
+Tidak untuk diperjualbelikan
